@@ -72,7 +72,7 @@ Built an interactive dashboard featuring:
 - Customer Contribution Insights  
 - Interactive filters and slicers  
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](powerbisql.jpg)
 
 ---
 
