@@ -41,7 +41,7 @@ Implemented:
 - Calculated monthly revenue using SQL aggregation
 - Identified revenue growth patterns across time
 
-![Monthly Revenue](sql1.jpg)
+![Monthly Revenue](screenshots/sql1.jpg)
 
 ---
 
@@ -49,7 +49,7 @@ Implemented:
 - Analyzed revenue contribution by product category
 - Ranked categories by total revenue
 
-![Category Revenue](Category_revenue.jpg)
+![Category Revenue](screenshots/Category_revenue.jpg)
 
 ---
 
@@ -57,7 +57,7 @@ Implemented:
 - Used CTE and `RANK()` window function
 - Identified high-value customers contributing maximum revenue
 
-![Top Customers](top_5_customers.jpg)
+![Top Customers](screenshots/top_5_customers.jpg)
 
 ---
 
@@ -72,7 +72,7 @@ Built an interactive dashboard featuring:
 - Customer Contribution Insights  
 - Interactive filters and slicers  
 
-![Dashboard Overview](powerbisql.jpg)
+![Dashboard Overview](screenshots/powerbisql.jpg)
 
 ---
 
