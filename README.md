@@ -41,7 +41,7 @@ Implemented:
 - Calculated monthly revenue using SQL aggregation
 - Identified revenue growth patterns across time
 
-![Monthly Revenue](project image 1.jpg)
+![Monthly Revenue](sql1.jpg)
 
 ---
 
@@ -49,7 +49,7 @@ Implemented:
 - Analyzed revenue contribution by product category
 - Ranked categories by total revenue
 
-![Category Revenue](Category revenue.jpg)
+![Category Revenue](Category_revenue.jpg)
 
 ---
 
@@ -57,7 +57,7 @@ Implemented:
 - Used CTE and `RANK()` window function
 - Identified high-value customers contributing maximum revenue
 
-![Top Customers](top_5 customers.jpg)
+![Top Customers](top_5_customers.jpg)
 
 ---
 
